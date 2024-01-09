@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="Utils.My_Listners"></listener>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Test_Case_Execution.AddTo_Cart_MenuOption_Product"/>
+      <class name="Test_Case_Execution.Size_Based_AddTo_Cart_Product"/>
+      <class name="Test_Case_Execution.Add_To_Cart_Dashboard_Category_Product"/>
+      <class name="Test_Case_Execution.Verify_Login_Functionality"/>
+      <class name="Test_Case_Execution.AddTo_Cart_Search_Product"/>
+    </classes>
+  </test> 
+</suite> 
