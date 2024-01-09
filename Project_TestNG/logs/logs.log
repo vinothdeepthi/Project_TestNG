@@ -1,0 +1,125 @@
+[INFO ] 2024-01-09 09:58:55.655 [main] Commons - Calling Read Properties Fille To Fatch The Data
+[INFO ] 2024-01-09 09:58:55.663 [main] Commons - Lounching The Browser
+[INFO ] 2024-01-09 09:58:57.438 [main] Commons - Lounching The Application
+[INFO ] 2024-01-09 09:59:01.909 [main] Commons - On Executed The Test Case
+[INFO ] 2024-01-09 09:59:01.955 [main] Commons - Create An Object All Page To Finding The WebElement
+[INFO ] 2024-01-09 09:59:02.025 [main] Commons - Craete Object LoginFuction
+[INFO ] 2024-01-09 09:59:02.025 [main] Commons - login the Application
+[INFO ] 2024-01-09 09:59:02.025 [main] Commons - Craete An Object on loginPage To Finding The Element
+[INFO ] 2024-01-09 09:59:02.030 [main] Commons - User Click On The Account Logo
+[INFO ] 2024-01-09 09:59:05.314 [main] Commons - User Entering The UserName
+[INFO ] 2024-01-09 09:59:05.878 [main] Commons - User Entering The Password
+[INFO ] 2024-01-09 09:59:06.110 [main] Commons - User Click The Login Button
+[INFO ] 2024-01-09 09:59:08.571 [main] Commons - User Get The Account User Name
+[INFO ] 2024-01-09 09:59:09.079 [main] Commons - Validate The Correct User As Been Logged Or Not
+[INFO ] 2024-01-09 09:59:09.088 [main] Commons - User Click On The Home Button
+[INFO ] 2024-01-09 09:59:11.841 [main] Commons - User Click On The Menu Button
+[INFO ] 2024-01-09 09:59:12.681 [main] Commons - User Select The Menu Options
+[INFO ] 2024-01-09 09:59:13.998 [main] Commons - User The The Product Category
+[INFO ] 2024-01-09 09:59:16.388 [main] Commons - User Select The Product
+[INFO ] 2024-01-09 09:59:16.389 [main] Commons - User Select The Product
+[INFO ] 2024-01-09 09:59:19.676 [main] Commons - Down The Page
+[INFO ] 2024-01-09 09:59:20.173 [main] Commons - User Click On the AddToCart Button
+[INFO ] 2024-01-09 09:59:20.851 [main] Commons - User Click On The View Cart Button
+[INFO ] 2024-01-09 09:59:24.752 [main] Commons - Validate The Correct Product Add To The Cart Page
+[INFO ] 2024-01-09 09:59:25.130 [main] Commons - Test Case Is Successfully Executed
+[INFO ] 2024-01-09 09:59:25.136 [main] Commons - Close The Application
+[INFO ] 2024-01-09 09:59:25.487 [main] Commons - Calling Read Properties Fille To Fatch The Data
+[INFO ] 2024-01-09 09:59:25.487 [main] Commons - Lounching The Browser
+[INFO ] 2024-01-09 09:59:26.703 [main] Commons - Lounching The Application
+[INFO ] 2024-01-09 09:59:30.767 [main] Commons - On Executed The Test Case
+[INFO ] 2024-01-09 09:59:30.767 [main] Commons - Create An Object All Page To Finding The WebElement
+[INFO ] 2024-01-09 09:59:30.771 [main] Commons - Craete Object LoginFuction
+[INFO ] 2024-01-09 09:59:30.772 [main] Commons - User login the Application
+[INFO ] 2024-01-09 09:59:30.772 [main] Commons - Craete An Object on loginPage To Finding The Element
+[INFO ] 2024-01-09 09:59:30.773 [main] Commons - User Click On The Account Logo
+[INFO ] 2024-01-09 09:59:32.745 [main] Commons - User Entering The UserName
+[INFO ] 2024-01-09 09:59:33.452 [main] Commons - User Entering The Password
+[INFO ] 2024-01-09 09:59:33.629 [main] Commons - User Click The Login Button
+[INFO ] 2024-01-09 09:59:35.989 [main] Commons - User Get The Account User Name
+[INFO ] 2024-01-09 09:59:36.044 [main] Commons - Validate The Correct User As Been Logged Or Not
+[INFO ] 2024-01-09 09:59:36.044 [main] Commons - User Click On The Home Button
+[INFO ] 2024-01-09 09:59:38.386 [main] Commons - Select The Product Category
+[INFO ] 2024-01-09 09:59:41.514 [main] Commons - User Click On The Filter Button
+[INFO ] 2024-01-09 09:59:41.841 [main] Commons - User Select The Filter Options
+[INFO ] 2024-01-09 09:59:44.231 [main] Commons - User Select The Product 
+[INFO ] 2024-01-09 09:59:44.233 [main] Commons - User Select The Product
+[INFO ] 2024-01-09 10:00:07.495 [main] Commons - Down The Page
+[INFO ] 2024-01-09 10:00:07.585 [main] Commons - User Select The Product Size Which is Available
+[INFO ] 2024-01-09 10:00:08.214 [main] Commons - Product Size Not Avaliable 6-9M
+[INFO ] 2024-01-09 10:00:08.850 [main] Commons - Product Size Not Avaliable 12-18M
+[INFO ] 2024-01-09 10:00:09.212 [main] Commons - User Click n The AddTo Cart Button
+[INFO ] 2024-01-09 10:00:09.518 [main] Commons - User Click On The Cart View Button
+[INFO ] 2024-01-09 10:00:14.391 [main] Commons - Validate The Correct Product Add To The Cart Page
+[INFO ] 2024-01-09 10:00:14.536 [main] Commons - Test Case Is Successfully Executed
+[INFO ] 2024-01-09 10:00:14.540 [main] Commons - Close The Application
+[INFO ] 2024-01-09 10:00:14.899 [main] Commons - Calling Read Properties Fille To Fatch The Data
+[INFO ] 2024-01-09 10:00:14.900 [main] Commons - Lounching The Browser
+[INFO ] 2024-01-09 10:00:16.221 [main] Commons - Lounching The Application
+[INFO ] 2024-01-09 10:00:20.961 [main] Commons - On Executed The Test Case
+[INFO ] 2024-01-09 10:00:20.961 [main] Commons - Create An Object All Page To Finding The WebElement
+[INFO ] 2024-01-09 10:00:20.963 [main] Commons - Craete Object LoginFuction
+[INFO ] 2024-01-09 10:00:20.963 [main] Commons - login the Application
+[INFO ] 2024-01-09 10:00:20.963 [main] Commons - Craete An Object on loginPage To Finding The Element
+[INFO ] 2024-01-09 10:00:20.963 [main] Commons - User Click On The Account Logo
+[INFO ] 2024-01-09 10:00:23.549 [main] Commons - User Entering The UserName
+[INFO ] 2024-01-09 10:00:24.200 [main] Commons - User Entering The Password
+[INFO ] 2024-01-09 10:00:24.366 [main] Commons - User Click The Login Button
+[INFO ] 2024-01-09 10:00:26.598 [main] Commons - User Get The Account User Name
+[INFO ] 2024-01-09 10:00:26.747 [main] Commons - Validate The Correct User As Been Logged Or Not
+[INFO ] 2024-01-09 10:00:26.747 [main] Commons - User Click On The Home Button
+[INFO ] 2024-01-09 10:00:29.648 [main] Commons - down The Page
+[INFO ] 2024-01-09 10:00:29.648 [main] Commons - Down The Page
+[INFO ] 2024-01-09 10:00:29.968 [main] Commons - Select The Product Category
+[INFO ] 2024-01-09 10:00:32.342 [main] Commons - User Select The Product
+[INFO ] 2024-01-09 10:00:32.343 [main] Commons - User Select The Product
+[INFO ] 2024-01-09 10:00:34.803 [main] Commons - Down The Page
+[INFO ] 2024-01-09 10:00:34.803 [main] Commons - Down The Page
+[INFO ] 2024-01-09 10:00:35.214 [main] Commons - Select The Quantity
+[INFO ] 2024-01-09 10:00:35.814 [main] Commons - Down The Page
+[INFO ] 2024-01-09 10:00:35.830 [main] Commons - User Click On the AddToCart Button
+[INFO ] 2024-01-09 10:00:36.302 [main] Commons - User Click On The View Cart Button
+[INFO ] 2024-01-09 10:00:40.416 [main] Commons - Validate The Correct Product Add To The Cart Page
+[INFO ] 2024-01-09 10:00:40.887 [main] Commons - Test Case Is Successfully Executed
+[INFO ] 2024-01-09 10:00:40.897 [main] Commons - Close The Application
+[INFO ] 2024-01-09 10:00:41.222 [main] Commons - Calling Read Properties Fille To Fatch The Data
+[INFO ] 2024-01-09 10:00:41.223 [main] Commons - Lounching The Browser
+[INFO ] 2024-01-09 10:00:42.365 [main] Commons - Lounching The Application
+[INFO ] 2024-01-09 10:00:46.885 [main] Commons - On Executed The Test Case
+[INFO ] 2024-01-09 10:00:46.886 [main] Commons - Craete An Object on loginPage To Finding The Element
+[INFO ] 2024-01-09 10:00:46.888 [main] Commons - User Click On The Account Logo
+[INFO ] 2024-01-09 10:00:49.558 [main] Commons - User Entering The UserName
+[INFO ] 2024-01-09 10:00:49.791 [main] Commons - User Entering The Password
+[INFO ] 2024-01-09 10:00:49.999 [main] Commons - User Click The Login Button
+[INFO ] 2024-01-09 10:00:52.387 [main] Commons - User Get The Account User Name
+[INFO ] 2024-01-09 10:00:52.572 [main] Commons - Validate The Correct User As Been Logged Or Not
+[INFO ] 2024-01-09 10:00:52.572 [main] Commons - User Click On The Home Button
+[INFO ] 2024-01-09 10:00:55.375 [main] Commons - Test Case Is Successfully Executed
+[INFO ] 2024-01-09 10:00:55.378 [main] Commons - Close The Application
+[INFO ] 2024-01-09 10:00:55.771 [main] Commons - Calling Read Properties Fille To Fatch The Data
+[INFO ] 2024-01-09 10:00:55.771 [main] Commons - Lounching The Browser
+[INFO ] 2024-01-09 10:00:57.067 [main] Commons - Lounching The Application
+[INFO ] 2024-01-09 10:01:01.438 [main] Commons - On Executed The Test Case
+[INFO ] 2024-01-09 10:01:01.439 [main] Commons - Create An Object All Page To Finding The WebElement
+[INFO ] 2024-01-09 10:01:01.440 [main] Commons - Craete Object LoginFuction
+[INFO ] 2024-01-09 10:01:01.440 [main] Commons - login the Application
+[INFO ] 2024-01-09 10:01:01.440 [main] Commons - Craete An Object on loginPage To Finding The Element
+[INFO ] 2024-01-09 10:01:01.440 [main] Commons - User Click On The Account Logo
+[INFO ] 2024-01-09 10:01:03.292 [main] Commons - User Entering The UserName
+[INFO ] 2024-01-09 10:01:04.183 [main] Commons - User Entering The Password
+[INFO ] 2024-01-09 10:01:04.329 [main] Commons - User Click The Login Button
+[INFO ] 2024-01-09 10:01:06.613 [main] Commons - User Get The Account User Name
+[INFO ] 2024-01-09 10:01:06.775 [main] Commons - Validate The Correct User As Been Logged Or Not
+[INFO ] 2024-01-09 10:01:06.775 [main] Commons - User Click On The Home Button
+[INFO ] 2024-01-09 10:01:09.257 [main] Commons - User Click On The Search Icon Button
+[INFO ] 2024-01-09 10:01:09.544 [main] Commons - User Enter The Product Name
+[INFO ] 2024-01-09 10:01:10.269 [main] Commons - User Click On The Search Button
+[INFO ] 2024-01-09 10:01:12.293 [main] Commons - User Select The Product
+[INFO ] 2024-01-09 10:01:12.294 [main] Commons - User Select The Product
+[INFO ] 2024-01-09 10:01:35.058 [main] Commons - Down The Page
+[INFO ] 2024-01-09 10:01:35.402 [main] Commons - User Click On the AddToCart Button
+[INFO ] 2024-01-09 10:01:35.945 [main] Commons - User Click On The View Cart Button
+[INFO ] 2024-01-09 10:01:39.571 [main] Commons - Validate The Correct Product Add To The Cart Page
+[INFO ] 2024-01-09 10:01:39.736 [main] Commons - Test Case Is Successfully Executed
+[INFO ] 2024-01-09 10:01:39.738 [main] Commons - Close The Application
+[INFO ] 2024-01-09 10:01:40.043 [main] Commons - Test Case Sccessfully Finished
